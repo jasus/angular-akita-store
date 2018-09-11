@@ -1,5 +1,7 @@
 # AngularAkitaStore
 
+You can test the app on [AngularAkitaStore](https://angular-akita-store-xgujaecqhj.now.sh/)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.5.
 
 ## Development server
